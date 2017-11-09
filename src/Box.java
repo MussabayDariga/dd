@@ -20,6 +20,7 @@ class BoxDemo5{
         mybox1.setDim(10, 20, 15);
         mybox2.setDim(3, 6, 9);
         // setDim для установки значений
+        //5656
 
         vol = mybox1.volume();
         System.out.println("O ="+vol);
