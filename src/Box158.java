@@ -12,12 +12,12 @@ class Box158 {
     double volume() {
         return width * height * depth;
     }
- /*   void setDim(double w, double h, double d){
+   void setDim(double w, double h, double d){
         width = w;
         height = h;
         depth = d;
     }
-*/
+
 }
 
 
@@ -36,7 +36,7 @@ class BoxDemo6 {
 
     }
 }
-/*class BoxDemo7{
+class BoxDemo7{
         public static void main(String[] args) {
             Box158 myb1 = new Box158();
             Box158 myb2 = new Box158();
@@ -52,4 +52,3 @@ class BoxDemo6 {
             System.out.println("Объем="+vol);
         }
 }
-*/
